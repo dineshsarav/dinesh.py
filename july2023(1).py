@@ -6,7 +6,6 @@ def calculate_area(radius):
   area = math.pi*radius**2
   return area
 
-
 print("The area of the circle :",calculate_area(radius))
 
 
