@@ -9,6 +9,7 @@ def fibonacci_seq(x):
   fibonacci.append(fnew)
  return fibonacci
 
+
 if x >= 0:
  print("Fibonacci sequence : ",fibonacci_seq(x))
 else:
